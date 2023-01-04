@@ -1,9 +1,5 @@
 # HW2 Report
 
-I did the bonus part.
-\
-`// Bonus add --------` is added before and after the additional code for the bonus part.
-
 You can access the bonus feature by running the program from the command line which saves the resulting image.
 
 To run the bonus part:
