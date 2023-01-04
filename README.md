@@ -1,1 +1,1 @@
-# computer_graphics_public
+# Computer Graphics course projects (code removed)

@@ -1,0 +1,3 @@
+/home/cs18/Desktop/cs180_graphics/HW5_skeleton/build/CMakeFiles/rebuild_cache.dir
+/home/cs18/Desktop/cs180_graphics/HW5_skeleton/build/CMakeFiles/BezierCurve.dir
+/home/cs18/Desktop/cs180_graphics/HW5_skeleton/build/CMakeFiles/edit_cache.dir
