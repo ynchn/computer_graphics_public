@@ -1,5 +1,3 @@
-# CS 180/280 Fall 2022
+# Computer Graphics course projects (code removed)
 
-Computer Graphics course projects (code removed)
-
-Each folder has a project description with the corresponding report and generated images.
+Under each directory, you'll find topics covered and the corresponding project description, results report, and generated images.
