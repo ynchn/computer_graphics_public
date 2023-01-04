@@ -1,5 +1,7 @@
 # HW2 Report
 
+I implemented the model matrix, the perspective projection matrix, and Rodrigues' Rotation formula.
+
 You can access the bonus feature by running the program from the command line which saves the resulting image.
 
 To run the bonus part:
