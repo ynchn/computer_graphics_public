@@ -1,7 +1,7 @@
 # HW6 Report
 
 Result image:\
-![result](./out.ppm)
+![result](./out.png)
 
 I modified `Renderer.cpp` and `Triangle.hpp`.
 

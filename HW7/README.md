@@ -1,7 +1,7 @@
 # HW7 Report
 
 Result image:\
-![result](./out.ppm)
+![result](./out.png)
 
 * I copied over the code in `void Renderer::Render(const Scene& scene)` and `bool rayTriangleIntersect(...)` from HW6. The usage of `castRay(...)` was slightly modified to work with the new code skeleton.
 
